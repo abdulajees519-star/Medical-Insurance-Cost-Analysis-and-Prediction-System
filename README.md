@@ -1,4 +1,4 @@
-#Insurance Charges Prediction using Machine Learning
+#Medical Insurance Cost Analysis and Prediction System
 
 ##Overview
 
